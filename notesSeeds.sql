@@ -1,0 +1,6 @@
+DROP DATABASE IF EXISTS notesDB;
+
+CREATE DATABASE notesDB;
+
+USE notesDB;
+
